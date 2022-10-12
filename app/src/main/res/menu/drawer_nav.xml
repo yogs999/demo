@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="query"
+        android:id="@+id/querry"
+        android:icon="@drawable/ic_baseline_query_builder_24"
+
+        />
+    <item android:title="contact us"
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+</menu>
